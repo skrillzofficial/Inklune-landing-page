@@ -16,7 +16,7 @@ const Inspired = () => {
   return (
     <div className='container mx-auto w-11/12'>
       {/* Inspired Section */}
-      <div className="px-4 sm:px-6 max-w-7xl ">
+      <div className="px-4 sm:px-6">
         <div className='bg-gray-100 text-center py-10'>
           <h1 className='text-[24px] sm:text-[24px] md:text-[24px] font-semibold text-gray-800 mb-4 sm:mb-6'>
             Stay Inspired

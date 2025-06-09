@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className="bg-white py-12 px-4 container mx-auto w-11/12">
       {/* Footer Container */}
-      <div className="max-w-6xl flex flex-col md:flex-row gap-8">
+      <div className="flex flex-col md:flex-row gap-8">
         {/* Left side */}
         <div className="md:w-1/4 bg-gray-100 p-6 rounded-lg">
           <h1 className="text-2xl font-bold mb-4 text-purple-600">Inklune</h1>
@@ -98,7 +98,7 @@ const Footer = () => {
       </div>
 
       {/* Copyright */}
-      <div className="flex flex-col md:flex-row items-center justify-between max-w-6xl mx-auto mt-12 pt-6 border-t border-gray-200 px-4">
+      <div className="flex flex-col md:flex-row items-center justify-between mx-auto mt-12 pt-6 border-t border-gray-200 px-4">
         <div className="text-gray-500 mb-4 md:mb-0">
           &copy; 2025, Inklune. All rights reserved.
         </div>

@@ -90,7 +90,7 @@ const Featured = () => {
   );
 
   return (
-    <section id="Categories" className="container mx-auto px-4 md:px-6 py-8 md:py-12 max-w-7xl w-11/12">
+    <section id="Categories" className="container mx-auto px-4 md:px-6 py-8 md:py-12 w-11/12">
       {/* Top bar */}
       <div className="flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
         <h1 className="text-2xl md:text-3xl font-bold text-gray-800 font-Manrope">

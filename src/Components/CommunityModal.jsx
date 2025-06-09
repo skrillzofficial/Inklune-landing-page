@@ -2,7 +2,7 @@ import React from 'react';
 
 const CommunityModal = ({ closeModal }) => {
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
+    <div className="fixed inset-5 flex items-center justify-center bg-white bg-opacity-50">
       {/* Modal Container */}
       <div className="relative bg-white rounded-lg shadow-xl p-6 mx-4 w-full max-w-md">
         {/* Close button (top-right) */}
